@@ -47,7 +47,7 @@
 			</ul>
 			<nav class="sidebar-nav mt-2">
 				<ul class="metismenu">
-					<li><a href="/"><i class="fa fa-dashboard"></i><span>Dashboard</span></a></li>
+					<li><a href="/"><i class="fa fa-home"></i><span>Dashboard</span></a></li>
 					<li><a href="/report"><i class="fa fa-calendar-check-o"></i><span>ATP Report</span></a></li>
 				</ul>
 			</nav>
